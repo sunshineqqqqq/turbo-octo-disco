@@ -1,0 +1,63 @@
+{
+  "build": "py312haa95532_1",
+  "build_number": 1,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.12,<3.13.0a0",
+    "python-dateutil >=2.7.0"
+  ],
+  "extracted_package_dir": "E:\\SOFTWARE\\ANACONDA\\pkgs\\arrow-1.2.3-py312haa95532_1",
+  "files": [
+    "Lib/site-packages/arrow-1.2.3.dist-info/INSTALLER",
+    "Lib/site-packages/arrow-1.2.3.dist-info/LICENSE",
+    "Lib/site-packages/arrow-1.2.3.dist-info/METADATA",
+    "Lib/site-packages/arrow-1.2.3.dist-info/RECORD",
+    "Lib/site-packages/arrow-1.2.3.dist-info/REQUESTED",
+    "Lib/site-packages/arrow-1.2.3.dist-info/WHEEL",
+    "Lib/site-packages/arrow-1.2.3.dist-info/direct_url.json",
+    "Lib/site-packages/arrow-1.2.3.dist-info/top_level.txt",
+    "Lib/site-packages/arrow/__init__.py",
+    "Lib/site-packages/arrow/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/arrow/__pycache__/_version.cpython-312.pyc",
+    "Lib/site-packages/arrow/__pycache__/api.cpython-312.pyc",
+    "Lib/site-packages/arrow/__pycache__/arrow.cpython-312.pyc",
+    "Lib/site-packages/arrow/__pycache__/constants.cpython-312.pyc",
+    "Lib/site-packages/arrow/__pycache__/factory.cpython-312.pyc",
+    "Lib/site-packages/arrow/__pycache__/formatter.cpython-312.pyc",
+    "Lib/site-packages/arrow/__pycache__/locales.cpython-312.pyc",
+    "Lib/site-packages/arrow/__pycache__/parser.cpython-312.pyc",
+    "Lib/site-packages/arrow/__pycache__/util.cpython-312.pyc",
+    "Lib/site-packages/arrow/_version.py",
+    "Lib/site-packages/arrow/api.py",
+    "Lib/site-packages/arrow/arrow.py",
+    "Lib/site-packages/arrow/constants.py",
+    "Lib/site-packages/arrow/factory.py",
+    "Lib/site-packages/arrow/formatter.py",
+    "Lib/site-packages/arrow/locales.py",
+    "Lib/site-packages/arrow/parser.py",
+    "Lib/site-packages/arrow/py.typed",
+    "Lib/site-packages/arrow/util.py",
+    ".nonadmin"
+  ],
+  "fn": "arrow-1.2.3-py312haa95532_1.conda",
+  "license": "Apache-2.0",
+  "link": {
+    "source": "E:\\SOFTWARE\\ANACONDA\\pkgs\\arrow-1.2.3-py312haa95532_1",
+    "type": 1
+  },
+  "md5": "d93f8ba0303cc4545d3c58cf6f3c58d5",
+  "name": "arrow",
+  "package_tarball_full_path": "E:\\SOFTWARE\\ANACONDA\\pkgs\\arrow-1.2.3-py312haa95532_1.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/win-64::arrow==1.2.3=py312haa95532_1[md5=d93f8ba0303cc4545d3c58cf6f3c58d5]",
+  "sha256": "a9916d96c0a1f3424a5b5e671d786398c73803d12a0ac8d70363c1e343216977",
+  "size": 171050,
+  "subdir": "win-64",
+  "timestamp": 1699549874000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/arrow-1.2.3-py312haa95532_1.conda",
+  "version": "1.2.3"
+}

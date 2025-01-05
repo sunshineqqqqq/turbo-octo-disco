@@ -1,0 +1,102 @@
+{
+  "build": "pyhd3eb1b0_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/noarch",
+  "constrains": [
+    "argon2_cffi 999"
+  ],
+  "depends": [
+    "argon2-cffi-bindings",
+    "python >=3.6",
+    "typing-extensions"
+  ],
+  "extracted_package_dir": "E:\\SOFTWARE\\ANACONDA\\pkgs\\argon2-cffi-21.3.0-pyhd3eb1b0_0",
+  "files": [
+    "Lib/site-packages/argon2/__init__.py",
+    "Lib/site-packages/argon2/__main__.py",
+    "Lib/site-packages/argon2/_legacy.py",
+    "Lib/site-packages/argon2/_password_hasher.py",
+    "Lib/site-packages/argon2/_typing.py",
+    "Lib/site-packages/argon2/_utils.py",
+    "Lib/site-packages/argon2/exceptions.py",
+    "Lib/site-packages/argon2/low_level.py",
+    "Lib/site-packages/argon2/profiles.py",
+    "Lib/site-packages/argon2/py.typed",
+    "Lib/site-packages/argon2_cffi-21.3.0.dist-info/INSTALLER",
+    "Lib/site-packages/argon2_cffi-21.3.0.dist-info/LICENSE",
+    "Lib/site-packages/argon2_cffi-21.3.0.dist-info/METADATA",
+    "Lib/site-packages/argon2_cffi-21.3.0.dist-info/RECORD",
+    "Lib/site-packages/argon2_cffi-21.3.0.dist-info/REQUESTED",
+    "Lib/site-packages/argon2_cffi-21.3.0.dist-info/WHEEL",
+    "Lib/site-packages/argon2_cffi-21.3.0.dist-info/direct_url.json",
+    ".nonadmin",
+    "Lib/site-packages/argon2/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/argon2/__pycache__/__main__.cpython-312.pyc",
+    "Lib/site-packages/argon2/__pycache__/_legacy.cpython-312.pyc",
+    "Lib/site-packages/argon2/__pycache__/_password_hasher.cpython-312.pyc",
+    "Lib/site-packages/argon2/__pycache__/_typing.cpython-312.pyc",
+    "Lib/site-packages/argon2/__pycache__/_utils.cpython-312.pyc",
+    "Lib/site-packages/argon2/__pycache__/exceptions.cpython-312.pyc",
+    "Lib/site-packages/argon2/__pycache__/low_level.cpython-312.pyc",
+    "Lib/site-packages/argon2/__pycache__/profiles.cpython-312.pyc"
+  ],
+  "fn": "argon2-cffi-21.3.0-pyhd3eb1b0_0.conda",
+  "license": "MIT",
+  "link": {
+    "source": "E:\\SOFTWARE\\ANACONDA\\pkgs\\argon2-cffi-21.3.0-pyhd3eb1b0_0",
+    "type": 1
+  },
+  "md5": "f00b851bc61b4c313903d31c7daecb09",
+  "name": "argon2-cffi",
+  "noarch": "python",
+  "package_tarball_full_path": "E:\\SOFTWARE\\ANACONDA\\pkgs\\argon2-cffi-21.3.0-pyhd3eb1b0_0.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/argon2/__pycache__/__init__.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/argon2/__pycache__/__main__.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/argon2/__pycache__/_legacy.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/argon2/__pycache__/_password_hasher.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/argon2/__pycache__/_typing.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/argon2/__pycache__/_utils.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/argon2/__pycache__/exceptions.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/argon2/__pycache__/low_level.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/argon2/__pycache__/profiles.cpython-312.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/noarch::argon2-cffi==21.3.0=pyhd3eb1b0_0[md5=f00b851bc61b4c313903d31c7daecb09]",
+  "sha256": "2c9a465ef472d2b858fed1d2e20c15f99d13b56ff21bfd53ae6bb2fffd57c1d7",
+  "size": 15834,
+  "subdir": "noarch",
+  "timestamp": 1645000255000,
+  "url": "https://repo.anaconda.com/pkgs/main/noarch/argon2-cffi-21.3.0-pyhd3eb1b0_0.conda",
+  "version": "21.3.0"
+}
