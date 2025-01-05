@@ -1,0 +1,302 @@
+{
+  "build": "pyhd3eb1b0_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/noarch",
+  "constrains": [],
+  "depends": [
+    "packaging",
+    "python >=3.6",
+    "six >=1.9.0",
+    "webencodings"
+  ],
+  "extracted_package_dir": "E:\\SOFTWARE\\ANACONDA\\pkgs\\bleach-4.1.0-pyhd3eb1b0_0",
+  "files": [
+    "Lib/site-packages/bleach-4.1.0.dist-info/INSTALLER",
+    "Lib/site-packages/bleach-4.1.0.dist-info/LICENSE",
+    "Lib/site-packages/bleach-4.1.0.dist-info/METADATA",
+    "Lib/site-packages/bleach-4.1.0.dist-info/RECORD",
+    "Lib/site-packages/bleach-4.1.0.dist-info/REQUESTED",
+    "Lib/site-packages/bleach-4.1.0.dist-info/WHEEL",
+    "Lib/site-packages/bleach-4.1.0.dist-info/direct_url.json",
+    "Lib/site-packages/bleach-4.1.0.dist-info/top_level.txt",
+    "Lib/site-packages/bleach/__init__.py",
+    "Lib/site-packages/bleach/_vendor/README.rst",
+    "Lib/site-packages/bleach/_vendor/__init__.py",
+    "Lib/site-packages/bleach/_vendor/html5lib-1.1.dist-info/AUTHORS.rst",
+    "Lib/site-packages/bleach/_vendor/html5lib-1.1.dist-info/INSTALLER",
+    "Lib/site-packages/bleach/_vendor/html5lib-1.1.dist-info/METADATA",
+    "Lib/site-packages/bleach/_vendor/html5lib-1.1.dist-info/RECORD",
+    "Lib/site-packages/bleach/_vendor/html5lib-1.1.dist-info/WHEEL",
+    "Lib/site-packages/bleach/_vendor/html5lib-1.1.dist-info/top_level.txt",
+    "Lib/site-packages/bleach/_vendor/html5lib/__init__.py",
+    "Lib/site-packages/bleach/_vendor/html5lib/_ihatexml.py",
+    "Lib/site-packages/bleach/_vendor/html5lib/_inputstream.py",
+    "Lib/site-packages/bleach/_vendor/html5lib/_tokenizer.py",
+    "Lib/site-packages/bleach/_vendor/html5lib/_trie/__init__.py",
+    "Lib/site-packages/bleach/_vendor/html5lib/_trie/_base.py",
+    "Lib/site-packages/bleach/_vendor/html5lib/_trie/py.py",
+    "Lib/site-packages/bleach/_vendor/html5lib/_utils.py",
+    "Lib/site-packages/bleach/_vendor/html5lib/constants.py",
+    "Lib/site-packages/bleach/_vendor/html5lib/filters/__init__.py",
+    "Lib/site-packages/bleach/_vendor/html5lib/filters/alphabeticalattributes.py",
+    "Lib/site-packages/bleach/_vendor/html5lib/filters/base.py",
+    "Lib/site-packages/bleach/_vendor/html5lib/filters/inject_meta_charset.py",
+    "Lib/site-packages/bleach/_vendor/html5lib/filters/lint.py",
+    "Lib/site-packages/bleach/_vendor/html5lib/filters/optionaltags.py",
+    "Lib/site-packages/bleach/_vendor/html5lib/filters/sanitizer.py",
+    "Lib/site-packages/bleach/_vendor/html5lib/filters/whitespace.py",
+    "Lib/site-packages/bleach/_vendor/html5lib/html5parser.py",
+    "Lib/site-packages/bleach/_vendor/html5lib/serializer.py",
+    "Lib/site-packages/bleach/_vendor/html5lib/treeadapters/__init__.py",
+    "Lib/site-packages/bleach/_vendor/html5lib/treeadapters/genshi.py",
+    "Lib/site-packages/bleach/_vendor/html5lib/treeadapters/sax.py",
+    "Lib/site-packages/bleach/_vendor/html5lib/treebuilders/__init__.py",
+    "Lib/site-packages/bleach/_vendor/html5lib/treebuilders/base.py",
+    "Lib/site-packages/bleach/_vendor/html5lib/treebuilders/dom.py",
+    "Lib/site-packages/bleach/_vendor/html5lib/treebuilders/etree.py",
+    "Lib/site-packages/bleach/_vendor/html5lib/treebuilders/etree_lxml.py",
+    "Lib/site-packages/bleach/_vendor/html5lib/treewalkers/__init__.py",
+    "Lib/site-packages/bleach/_vendor/html5lib/treewalkers/base.py",
+    "Lib/site-packages/bleach/_vendor/html5lib/treewalkers/dom.py",
+    "Lib/site-packages/bleach/_vendor/html5lib/treewalkers/etree.py",
+    "Lib/site-packages/bleach/_vendor/html5lib/treewalkers/etree_lxml.py",
+    "Lib/site-packages/bleach/_vendor/html5lib/treewalkers/genshi.py",
+    "Lib/site-packages/bleach/_vendor/parse.py",
+    "Lib/site-packages/bleach/_vendor/vendor.txt",
+    "Lib/site-packages/bleach/_vendor/vendor_install.sh",
+    "Lib/site-packages/bleach/callbacks.py",
+    "Lib/site-packages/bleach/html5lib_shim.py",
+    "Lib/site-packages/bleach/linkifier.py",
+    "Lib/site-packages/bleach/sanitizer.py",
+    "Lib/site-packages/bleach/utils.py",
+    ".nonadmin",
+    "Lib/site-packages/bleach/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/bleach/_vendor/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/bleach/_vendor/html5lib/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/bleach/_vendor/html5lib/__pycache__/_ihatexml.cpython-312.pyc",
+    "Lib/site-packages/bleach/_vendor/html5lib/__pycache__/_inputstream.cpython-312.pyc",
+    "Lib/site-packages/bleach/_vendor/html5lib/__pycache__/_tokenizer.cpython-312.pyc",
+    "Lib/site-packages/bleach/_vendor/html5lib/_trie/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/bleach/_vendor/html5lib/_trie/__pycache__/_base.cpython-312.pyc",
+    "Lib/site-packages/bleach/_vendor/html5lib/_trie/__pycache__/py.cpython-312.pyc",
+    "Lib/site-packages/bleach/_vendor/html5lib/__pycache__/_utils.cpython-312.pyc",
+    "Lib/site-packages/bleach/_vendor/html5lib/__pycache__/constants.cpython-312.pyc",
+    "Lib/site-packages/bleach/_vendor/html5lib/filters/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/bleach/_vendor/html5lib/filters/__pycache__/alphabeticalattributes.cpython-312.pyc",
+    "Lib/site-packages/bleach/_vendor/html5lib/filters/__pycache__/base.cpython-312.pyc",
+    "Lib/site-packages/bleach/_vendor/html5lib/filters/__pycache__/inject_meta_charset.cpython-312.pyc",
+    "Lib/site-packages/bleach/_vendor/html5lib/filters/__pycache__/lint.cpython-312.pyc",
+    "Lib/site-packages/bleach/_vendor/html5lib/filters/__pycache__/optionaltags.cpython-312.pyc",
+    "Lib/site-packages/bleach/_vendor/html5lib/filters/__pycache__/sanitizer.cpython-312.pyc",
+    "Lib/site-packages/bleach/_vendor/html5lib/filters/__pycache__/whitespace.cpython-312.pyc",
+    "Lib/site-packages/bleach/_vendor/html5lib/__pycache__/html5parser.cpython-312.pyc",
+    "Lib/site-packages/bleach/_vendor/html5lib/__pycache__/serializer.cpython-312.pyc",
+    "Lib/site-packages/bleach/_vendor/html5lib/treeadapters/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/bleach/_vendor/html5lib/treeadapters/__pycache__/genshi.cpython-312.pyc",
+    "Lib/site-packages/bleach/_vendor/html5lib/treeadapters/__pycache__/sax.cpython-312.pyc",
+    "Lib/site-packages/bleach/_vendor/html5lib/treebuilders/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/bleach/_vendor/html5lib/treebuilders/__pycache__/base.cpython-312.pyc",
+    "Lib/site-packages/bleach/_vendor/html5lib/treebuilders/__pycache__/dom.cpython-312.pyc",
+    "Lib/site-packages/bleach/_vendor/html5lib/treebuilders/__pycache__/etree.cpython-312.pyc",
+    "Lib/site-packages/bleach/_vendor/html5lib/treebuilders/__pycache__/etree_lxml.cpython-312.pyc",
+    "Lib/site-packages/bleach/_vendor/html5lib/treewalkers/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/bleach/_vendor/html5lib/treewalkers/__pycache__/base.cpython-312.pyc",
+    "Lib/site-packages/bleach/_vendor/html5lib/treewalkers/__pycache__/dom.cpython-312.pyc",
+    "Lib/site-packages/bleach/_vendor/html5lib/treewalkers/__pycache__/etree.cpython-312.pyc",
+    "Lib/site-packages/bleach/_vendor/html5lib/treewalkers/__pycache__/etree_lxml.cpython-312.pyc",
+    "Lib/site-packages/bleach/_vendor/html5lib/treewalkers/__pycache__/genshi.cpython-312.pyc",
+    "Lib/site-packages/bleach/_vendor/__pycache__/parse.cpython-312.pyc",
+    "Lib/site-packages/bleach/__pycache__/callbacks.cpython-312.pyc",
+    "Lib/site-packages/bleach/__pycache__/html5lib_shim.cpython-312.pyc",
+    "Lib/site-packages/bleach/__pycache__/linkifier.cpython-312.pyc",
+    "Lib/site-packages/bleach/__pycache__/sanitizer.cpython-312.pyc",
+    "Lib/site-packages/bleach/__pycache__/utils.cpython-312.pyc"
+  ],
+  "fn": "bleach-4.1.0-pyhd3eb1b0_0.conda",
+  "license": "Apache-2.0",
+  "link": {
+    "source": "E:\\SOFTWARE\\ANACONDA\\pkgs\\bleach-4.1.0-pyhd3eb1b0_0",
+    "type": 1
+  },
+  "md5": "256eb7e384e35f993ef8ccd6c4f45e58",
+  "name": "bleach",
+  "noarch": "python",
+  "package_tarball_full_path": "E:\\SOFTWARE\\ANACONDA\\pkgs\\bleach-4.1.0-pyhd3eb1b0_0.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/bleach/__pycache__/__init__.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/bleach/_vendor/__pycache__/__init__.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/bleach/_vendor/html5lib/__pycache__/__init__.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/bleach/_vendor/html5lib/__pycache__/_ihatexml.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/bleach/_vendor/html5lib/__pycache__/_inputstream.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/bleach/_vendor/html5lib/__pycache__/_tokenizer.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/bleach/_vendor/html5lib/_trie/__pycache__/__init__.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/bleach/_vendor/html5lib/_trie/__pycache__/_base.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/bleach/_vendor/html5lib/_trie/__pycache__/py.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/bleach/_vendor/html5lib/__pycache__/_utils.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/bleach/_vendor/html5lib/__pycache__/constants.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/bleach/_vendor/html5lib/filters/__pycache__/__init__.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/bleach/_vendor/html5lib/filters/__pycache__/alphabeticalattributes.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/bleach/_vendor/html5lib/filters/__pycache__/base.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/bleach/_vendor/html5lib/filters/__pycache__/inject_meta_charset.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/bleach/_vendor/html5lib/filters/__pycache__/lint.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/bleach/_vendor/html5lib/filters/__pycache__/optionaltags.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/bleach/_vendor/html5lib/filters/__pycache__/sanitizer.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/bleach/_vendor/html5lib/filters/__pycache__/whitespace.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/bleach/_vendor/html5lib/__pycache__/html5parser.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/bleach/_vendor/html5lib/__pycache__/serializer.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/bleach/_vendor/html5lib/treeadapters/__pycache__/__init__.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/bleach/_vendor/html5lib/treeadapters/__pycache__/genshi.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/bleach/_vendor/html5lib/treeadapters/__pycache__/sax.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/bleach/_vendor/html5lib/treebuilders/__pycache__/__init__.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/bleach/_vendor/html5lib/treebuilders/__pycache__/base.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/bleach/_vendor/html5lib/treebuilders/__pycache__/dom.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/bleach/_vendor/html5lib/treebuilders/__pycache__/etree.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/bleach/_vendor/html5lib/treebuilders/__pycache__/etree_lxml.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/bleach/_vendor/html5lib/treewalkers/__pycache__/__init__.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/bleach/_vendor/html5lib/treewalkers/__pycache__/base.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/bleach/_vendor/html5lib/treewalkers/__pycache__/dom.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/bleach/_vendor/html5lib/treewalkers/__pycache__/etree.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/bleach/_vendor/html5lib/treewalkers/__pycache__/etree_lxml.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/bleach/_vendor/html5lib/treewalkers/__pycache__/genshi.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/bleach/_vendor/__pycache__/parse.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/bleach/__pycache__/callbacks.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/bleach/__pycache__/html5lib_shim.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/bleach/__pycache__/linkifier.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/bleach/__pycache__/sanitizer.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/bleach/__pycache__/utils.cpython-312.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/noarch::bleach==4.1.0=pyhd3eb1b0_0[md5=256eb7e384e35f993ef8ccd6c4f45e58]",
+  "sha256": "294fea02f7cdc4728ea19102d021c1f9d2c55fcfb00de26b72f54e206cd45762",
+  "size": 125533,
+  "subdir": "noarch",
+  "timestamp": 1641577596000,
+  "url": "https://repo.anaconda.com/pkgs/main/noarch/bleach-4.1.0-pyhd3eb1b0_0.conda",
+  "version": "4.1.0"
+}
